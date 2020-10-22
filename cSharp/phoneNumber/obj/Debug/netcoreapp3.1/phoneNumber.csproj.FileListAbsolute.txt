@@ -1,0 +1,12 @@
+/Users/matthewlucas/codewars/cSharp/phoneNumber/bin/Debug/netcoreapp3.1/phoneNumber.deps.json
+/Users/matthewlucas/codewars/cSharp/phoneNumber/bin/Debug/netcoreapp3.1/phoneNumber.runtimeconfig.json
+/Users/matthewlucas/codewars/cSharp/phoneNumber/bin/Debug/netcoreapp3.1/phoneNumber.runtimeconfig.dev.json
+/Users/matthewlucas/codewars/cSharp/phoneNumber/bin/Debug/netcoreapp3.1/phoneNumber.dll
+/Users/matthewlucas/codewars/cSharp/phoneNumber/bin/Debug/netcoreapp3.1/phoneNumber.pdb
+/Users/matthewlucas/codewars/cSharp/phoneNumber/obj/Debug/netcoreapp3.1/phoneNumber.csprojAssemblyReference.cache
+/Users/matthewlucas/codewars/cSharp/phoneNumber/obj/Debug/netcoreapp3.1/phoneNumber.AssemblyInfoInputs.cache
+/Users/matthewlucas/codewars/cSharp/phoneNumber/obj/Debug/netcoreapp3.1/phoneNumber.AssemblyInfo.cs
+/Users/matthewlucas/codewars/cSharp/phoneNumber/obj/Debug/netcoreapp3.1/phoneNumber.csproj.CoreCompileInputs.cache
+/Users/matthewlucas/codewars/cSharp/phoneNumber/obj/Debug/netcoreapp3.1/phoneNumber.dll
+/Users/matthewlucas/codewars/cSharp/phoneNumber/obj/Debug/netcoreapp3.1/phoneNumber.pdb
+/Users/matthewlucas/codewars/cSharp/phoneNumber/obj/Debug/netcoreapp3.1/phoneNumber.genruntimeconfig.cache
