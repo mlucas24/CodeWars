@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{79E0DAE3-83A7-4C82-ABD7-58DCBAC7E45B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindClosestValueInBstTest/UnitTest1.cs">
+    <Files>
+      <File FileName="FindClosestValueInBst/Program.cs" Line="40" Column="34" />
+      <File FileName="FindClosestValueInBstTest/UnitTest1.cs" Line="23" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FindClosestValueInBst" expanded="True">
+            <Node name="FindClosestValueInBst" expanded="True" />
+            <Node name="FindClosestValueInBstTest" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FindClosestValueInBst" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FindClosestValueInBst PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

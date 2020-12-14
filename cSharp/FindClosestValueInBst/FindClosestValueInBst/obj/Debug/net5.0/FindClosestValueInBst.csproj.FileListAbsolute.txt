@@ -1,0 +1,15 @@
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/obj/Debug/net5.0/FindClosestValueInBst.csprojAssemblyReference.cache
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/obj/Debug/net5.0/FindClosestValueInBst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/obj/Debug/net5.0/FindClosestValueInBst.AssemblyInfoInputs.cache
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/obj/Debug/net5.0/FindClosestValueInBst.AssemblyInfo.cs
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/obj/Debug/net5.0/FindClosestValueInBst.csproj.CoreCompileInputs.cache
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/bin/Debug/net5.0/FindClosestValueInBst.deps.json
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/bin/Debug/net5.0/FindClosestValueInBst.runtimeconfig.json
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/bin/Debug/net5.0/FindClosestValueInBst.runtimeconfig.dev.json
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/bin/Debug/net5.0/FindClosestValueInBst.dll
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/bin/Debug/net5.0/ref/FindClosestValueInBst.dll
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/bin/Debug/net5.0/FindClosestValueInBst.pdb
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/obj/Debug/net5.0/FindClosestValueInBst.dll
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/obj/Debug/net5.0/ref/FindClosestValueInBst.dll
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/obj/Debug/net5.0/FindClosestValueInBst.pdb
+/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/obj/Debug/net5.0/FindClosestValueInBst.genruntimeconfig.cache
