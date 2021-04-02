@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VJdvaDB+4nrrgaech7KguzOwTVA34CdbIz+VGYrbRFxlMcyiP0/RmqzX9Sc8661ZYjJfxnR7W5UiJ62EyzxISw==",
+  "dgSpecHash": "EV5I76EgQFpIWSrT+CSBgaFPKUun41HVXt5lXachnB060W+hv/owV73NetxbPEEERx2AlFXwkaQokWwxPp8KPg==",
   "success": true,
-  "projectFilePath": "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/FindClosestValueInBst.csproj",
+  "projectFilePath": "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBst\\FindClosestValueInBst.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

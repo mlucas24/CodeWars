@@ -1,85 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBstTest/FindClosestValueInBstTest.csproj": {}
+    "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBstTest\\FindClosestValueInBstTest.csproj": {}
   },
   "projects": {
-    "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/FindClosestValueInBst.csproj": {
+    "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBstTest\\FindClosestValueInBstTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/FindClosestValueInBst.csproj",
-        "projectName": "FindClosestValueInBst",
-        "projectPath": "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/FindClosestValueInBst.csproj",
-        "packagesPath": "/Users/matthewlucas/.nuget/packages/",
-        "outputPath": "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/matthewlucas/.config/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBstTest/FindClosestValueInBstTest.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBstTest/FindClosestValueInBstTest.csproj",
+        "projectUniqueName": "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBstTest\\FindClosestValueInBstTest.csproj",
         "projectName": "FindClosestValueInBstTest",
-        "projectPath": "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBstTest/FindClosestValueInBstTest.csproj",
-        "packagesPath": "/Users/matthewlucas/.nuget/packages/",
-        "outputPath": "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBstTest/obj/",
+        "projectPath": "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBstTest\\FindClosestValueInBstTest.csproj",
+        "packagesPath": "C:\\Users\\mluca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBstTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/matthewlucas/.config/NuGet/NuGet.Config"
+          "C:\\Users\\mluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/FindClosestValueInBst.csproj": {
-                "projectPath": "/Users/matthewlucas/CodeWars/cSharp/FindClosestValueInBst/FindClosestValueInBst/FindClosestValueInBst.csproj"
+              "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBst\\FindClosestValueInBst.csproj": {
+                "projectPath": "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBst\\FindClosestValueInBst.csproj"
               }
             }
           }
@@ -126,7 +80,65 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBst\\FindClosestValueInBst.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBst\\FindClosestValueInBst.csproj",
+        "projectName": "FindClosestValueInBst",
+        "projectPath": "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBst\\FindClosestValueInBst.csproj",
+        "packagesPath": "C:\\Users\\mluca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mluca\\Source\\Repos\\CodeWars\\cSharp\\FindClosestValueInBst\\FindClosestValueInBst\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,16 @@
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\net5.0\PalindromeLinkedList.csprojAssemblyReference.cache
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\net5.0\PalindromeLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\net5.0\PalindromeLinkedList.AssemblyInfoInputs.cache
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\net5.0\PalindromeLinkedList.AssemblyInfo.cs
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\net5.0\PalindromeLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\net5.0\PalindromeLinkedList.exe
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\net5.0\PalindromeLinkedList.deps.json
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\net5.0\PalindromeLinkedList.runtimeconfig.json
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\net5.0\PalindromeLinkedList.runtimeconfig.dev.json
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\net5.0\PalindromeLinkedList.dll
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\net5.0\ref\PalindromeLinkedList.dll
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\net5.0\PalindromeLinkedList.pdb
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\net5.0\PalindromeLinkedList.dll
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\net5.0\ref\PalindromeLinkedList.dll
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\net5.0\PalindromeLinkedList.pdb
+C:\Users\mluca\source\repos\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\net5.0\PalindromeLinkedList.genruntimeconfig.cache
